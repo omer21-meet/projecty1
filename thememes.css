@@ -1,0 +1,28 @@
+.sin {
+	color:white;
+	text-align: center;
+	font-size: 100px;
+}
+body{
+	background-image: url("w2.jpg");
+	background-size: cover;
+
+}
+h3{color:white;
+	margin-left: 50px;
+}
+div{margin-left: 50px;}
+
+button {
+	background-color: #FFFFFF ; 
+	border: none;
+	color: 235936;
+	padding: 16px 32px;
+	text-align: center;
+	text-decoration-color: none;
+	display: inline-block;
+	font-size: 16px;
+	text-align-last: 50px;
+	margin-right: 100px;
+	
+}

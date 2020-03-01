@@ -1,0 +1,204 @@
+body{
+	background-image: url("background.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	padding: 20px;
+}
+
+.title{
+	position: relative;
+	margin-left: 700px;
+
+}
+
+
+*/*/
+.memeEdit{	
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+
+}
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50%;
+  position: relative;
+  margin-top: 200px;
+  margin-left: 300px;
+  text-align: center;
+} 
+
+.mid{
+	position: relative;
+	padding-left: 400px;
+	
+}
+
+.mid2{
+	position: relative;
+	padding-left: 110px;
+	margin-top: -100px;
+	
+}
+.mid3{
+	position: relative;
+	padding-left: 400px;
+	padding-top: -4000px;
+}
+
+.sword1{
+	position: relative;
+	margin-top: -800px;
+	
+}
+.sword2{
+	position: relative;
+	margin-top: -1000px;
+	margin-left: 1350px;
+}
+.item{
+	position: relative;
+	margin-top: -850px;
+	margin-left: 600px;
+}
+.lost{
+	position: relative;
+	margin-left: 600px;
+	margin-top: -500px;
+
+	
+}
+.about{
+	position: relative;
+	margin-left: 370px;
+	margin-top: -250px;
+
+	
+}
+.right{
+	position: relative;
+	margin-left: 1200px;
+	bottom: 560px;
+
+}
+.right2{
+	position: relative;
+	margin-left: 1630px;
+	bottom: 880px;
+
+}
+.screen{
+	position: relative;
+	padding-left: 400;
+	bottom: 200;
+}
+/**/
+
+
+button {
+  margin-top: 0px;
+  margin-left: -112px;
+  line-height: 60px;
+  font-weight: bold;
+  padding: 0 40px;
+  background: black;
+  color: white;
+  border: none;
+  position: absolute;
+}
+button:hover {
+  background: red;
+}
+
+#But1{
+	position: absolute;
+	margin-top: 100px;
+	left: -200px;
+}
+
+
+#But2{
+	margin-top: 600px;
+	margin-left: 175px;
+	left: -200px;
+}
+
+#Meme1{
+	margin-top: 100px;
+	width: 500px;
+	height: 500px;
+	text-align: center;
+	margin-right: 150px;
+}
+
+#text1{
+	position: absolute;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 40px;
+	color-black;
+	z-index: 2;	
+}
+#text2{
+	position: absolute;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 40px;
+	color-black;
+	z-index: 2;	
+}
+#text3{
+	position: absolute;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 40px;
+	color-black;	
+	z-index: 2;
+}
+#Trash{
+	position:absolute;
+	right: 1050px;
+	bottom: 370px;
+}
+.DropToTrash{
+	position:absolute;
+	height: 100px;
+	width: 10%;
+	border:2px solid black;
+	margin-top: 250px;
+	margin-left: 110px;
+	left: -;
+}
+#But3{
+	position:absolute;
+	left:-120px;
+	margin-top: 100px;
+}
+#But4{
+	position:absolute;
+	left:15px;
+	margin-top: 200px;
+	left: -200px;
+}
+#But5{
+	position:absolute;
+	left:-120px;
+	margin-top: 200px;
+}
+#But10{
+	position:absolute;
+	right: 295px;
+	margin-top: 300px;
+}
+
+#memeimg{
+	margin-right: 0px;
+	z-index: -2;
+	width:500px;
+	height: 500px; 
+	margin-right: 400px;
+	
+}

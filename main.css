@@ -1,0 +1,39 @@
+.sin {
+	color:#814F88;
+	text-align: center;
+	font-size: 100px;
+}
+body{
+	background-image: url("back.jpeg");
+	background-size: cover;
+}
+#pepe{
+	color: #AAB7B8;
+	font-size: 30px;
+	text-align: center;
+}
+.oca{
+	color:#814F88;
+	text-align: center;
+	font-size: 50px;
+
+}
+
+
+
+img{margin-left: 1300px;
+	}
+.oc{
+	margin-right: auto;
+	margin-left: auto;
+	width: 500px;
+   } 
+button {
+  margin-left: 1000px;
+}
+
+h5{font-size: 24px;
+	margin-left: 150px;
+	margin-top: 45px;
+	color:#AAB7B8;
+}
